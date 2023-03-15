@@ -32,7 +32,7 @@ Deep learning frameworks: TensorFlow, Keras, PyTorch, etc.
 Cloud platforms: AWS, Google Cloud, Azure, etc.
 
 Blog
-I regularly share my thoughts, ideas, and experiences related to data science on my blog. Check it out here.
+I regularly share my thoughts, ideas, and experiences related to data science on my blog. Check it out <a href="https://kabultechnology.blogspot.com/2021/11/what-is-python-python-is-popular.html" target="_blank">here</a> .
 
 Contact Me
 Feel free to contact me via email at rezaebrahimi13941@gmail.com or connect with me on https://www.linkedin.com/in/rezaebrahimi123/. I am open to collaboration and discussion on data science topics.
