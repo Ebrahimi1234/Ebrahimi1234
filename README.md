@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza Ebrahimi</h1>
 <h3 align="center">A passionate Data Scientist from Afghanistan</h3>
-
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 - 🌱 I’m currently learning **Coursera, Udemy**
 
 - 💬 Ask me about **Data Science and Machine Learning**
