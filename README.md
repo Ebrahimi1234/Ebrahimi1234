@@ -1,48 +1,52 @@
-<!-- welcome message -->
-<h1 align="center">Hi 👋, I'm Reza Ebrahimi</h1>
-Welcome to my GitHub profile! Here you will find a collection of my data science projects, code snippets, and resources related to data science.
+<h1 align="center">Hi, I'm Reza Ebrahimi 👋</h1>
 
-About Me
-I am a data scientist with 2 years of experience in data analysis, machine learning, and data visualization. I am passionate about finding insights and solutions in data, and enjoy learning new techniques and tools to enhance my skills.
+<p align="center">
+  <strong>Data Scientist · Software Engineering PhD student · Python & Machine Learning</strong>
+</p>
 
-Projects
-Here are some of my notable data science projects:
+<p align="center">
+  <a href="https://www.linkedin.com/in/rezaebrahimi123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Ebrahimi1234"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-Heart Disease Prediction: The project was done through fieldwork relating to traditional machine-learning
-techniques for classification. The heart disease prediction system predicts whether the patient is likely to be diagnosed
-with heart disease or not using the medical history of the patient with different algorithms of machine learning such
-as logistic regression and KNN to predict and classify the patient with heart disease.
+## About me
 
-Disaster Tweet Classification Using Machine Learning: The project was done through several supervised
-classification models, including K-nearest neighbor (KNN), Support Vector Machine (SVM), Random Forest, and
-Logistic Regression. It can be properly determined if a piece of information(tweet text) is related to a real disaster
-or not by applying knowledge and skills in the field of data analysis and machine learning.
+I am a data scientist and a PhD student in **Software Engineering** at Siberian Federal University (SibFU). I enjoy turning data into useful, well-tested machine-learning solutions and exploring problems at the intersection of research and practice.
 
-Skills
-Programming languages: Python, R, SQL, Java, etc.
+- 🎓 PhD studies in Software Engineering at SibFU
+- 🔬 Research interests: natural language processing, computer vision, big-data frameworks, and cloud computing
+- 🧠 Focused on Python, data analysis, machine learning, and predictive modelling
+- 🤝 Open to thoughtful collaboration on data-science and AI projects
 
-Data analysis tools: Pandas, Numpy, Scikit-learn, etc.
+## Areas of focus
 
-Data visualization tools: Matplotlib, Seaborn, Tableau, etc.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=flat-square" alt="Data Science" />
+  <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-16A085?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+</p>
 
-Machine learning algorithms: Regression, Classification, Clustering, etc.
+## Selected work
 
-Deep learning frameworks: TensorFlow, Keras, PyTorch, etc.
+### Natural Language Processing with Disaster Tweets
+Explored NLP techniques for analysing disaster-related tweets and built models to identify whether a tweet describes a real disaster.
 
-Cloud platforms: AWS, Google Cloud, Azure, etc.
+### Disaster Tweet Classification Using Machine Learning
+Developed a text-classification workflow using data analysis and supervised learning, evaluating K-nearest neighbours, support vector machines, random forests, and logistic regression.
 
+### Heart Disease Prediction
+Built a traditional machine-learning classification project using patient medical-history features, with logistic regression and K-nearest neighbours as evaluated approaches.
 
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![Reza Ebrahimi's github stats](https://github-readme-stats.vercel.app/api?username=Ebrahimi1234&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Ebrahimi1234/github-readme-stats)|[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=Ebrahimi1234&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/Ebrahimi1234/github-readme-stats)|
+## Currently exploring
 
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Contact Me!
-Please feel free to contact me via:
+Natural language processing, computer vision, scalable data systems, and practical applications of machine learning.
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/reza.ebrahimi.940/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ebrahimi1234)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezaebrahimi123//)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezaebrahimi13941@gmail.com)
+---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am open to collaboration and discussion on data science topics!</b> 😊</em>
+<p align="center"><i>Thanks for visiting—feel free to explore my repositories or connect on LinkedIn.</i></p>
 
