@@ -11,9 +11,10 @@
 
 ## About me
 
-I am a data scientist and a PhD student in **Software Engineering** at Siberian Federal University (SibFU). I enjoy turning data into useful, well-tested machine-learning solutions and exploring problems at the intersection of research and practice.
+I am a data scientist and a PhD student in **Software Engineering** at Siberian Federal University (SibFU), and I hold an MSc from the University of Engineering and Technology (UET) Peshawar. I enjoy turning data into useful, well-tested machine-learning solutions and exploring problems at the intersection of research and practice.
 
 - 🎓 PhD studies in Software Engineering at SibFU
+- 🎓 MSc, University of Engineering and Technology (UET) Peshawar
 - 🔬 Research interests: natural language processing, computer vision, big-data frameworks, and cloud computing
 - 🧠 Focused on Python, data analysis, machine learning, and predictive modelling
 - 🤝 Open to thoughtful collaboration on data-science and AI projects
@@ -33,14 +34,26 @@ I am a data scientist and a PhD student in **Software Engineering** at Siberian 
 
 ## Selected work
 
-### Natural Language Processing with Disaster Tweets
-Explored NLP techniques for analysing disaster-related tweets and built models to identify whether a tweet describes a real disaster.
+### Object Detection with OpenCV and SSD MobileNet
+Object-detection pipeline built on OpenCV's DNN module, using a pre-trained SSD MobileNet model and the COCO label set to draw boxes and labels on images and video frames.
+&nbsp;·&nbsp; [Code](https://github.com/Ebrahimi1234/Computer-Vision/tree/main/ObjectDetection)
 
-### Disaster Tweet Classification Using Machine Learning
-Developed a text-classification workflow using data analysis and supervised learning, evaluating K-nearest neighbours, support vector machines, random forests, and logistic regression.
+### Disaster Tweet Classification (NLP)
+Explored NLP techniques for analysing disaster-related tweets and built machine-learning and deep-learning models to predict whether a tweet describes a real disaster, benchmarking K-nearest neighbours, SVM, random forest and logistic regression.
+&nbsp;·&nbsp; [Case study](https://www.truelancer.com/portfolio/disaster-tweet-classification-nlp-338168)
 
 ### Heart Disease Prediction
-Built a traditional machine-learning classification project using patient medical-history features, with logistic regression and K-nearest neighbours as evaluated approaches.
+Classification system that estimates a patient's likelihood of a heart-disease diagnosis, comparing logistic regression and K-nearest neighbours on medical-history features and reporting the comparison.
+&nbsp;·&nbsp; [Case study](https://www.truelancer.com/portfolio/heart-disease-prediction-machine-learning-338169)
+
+## More repositories
+
+- **[Computer-Vision](https://github.com/Ebrahimi1234/Computer-Vision)** — object detection and image classification experiments
+- **[Data-Science-Projects](https://github.com/Ebrahimi1234/Data-Science-Projects)** — exploratory analysis, NLP techniques, loan and used-vehicle price prediction
+- **[Streamlit-Applications](https://github.com/Ebrahimi1234/Streamlit-Applications)** — small interactive apps (Iris, penguins, S&P 500, crypto, NBA and NFL stats)
+- **[Recommendation-Systems](https://github.com/Ebrahimi1234/Recommendation-Systems)** — collaborative-filtering, content-based, hybrid and matrix-factorisation recommenders
+- **[CODSOFT](https://github.com/Ebrahimi1234/CODSOFT)** — ML internship tasks: Titanic, Iris, credit-card fraud and sales prediction
+- **[RCNNSateliteAirplaneSegmentation](https://github.com/Ebrahimi1234/RCNNSateliteAirplaneSegmentation)** — instance segmentation of airplanes in satellite imagery
 
 ## Currently exploring
 
@@ -49,4 +62,3 @@ Natural language processing, computer vision, scalable data systems, and practic
 ---
 
 <p align="center"><i>Thanks for visiting—feel free to explore my repositories or connect on LinkedIn.</i></p>
-
